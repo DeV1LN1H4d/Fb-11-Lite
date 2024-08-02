@@ -1,23 +1,9 @@
-#Facebook Lite 11 Clone By DEVIL NIHAD
+# Facebook Lite Clone by DEVIL NIHAD
 
-Facebook Lite 1,2,3,4,5,6,7,8,9,10,11 Apps
+Welcome to the repository for the unique Facebook Lite clone apps developed by DEVIL NIHAD. This project includes multiple Facebook Lite clone versions, each designed to have unique attributes and enhanced privacy features.
 
-App Version : 418.0.0.6.105
-
-Clone Version : 1.0
-
-All Fb Lite Clone By DEVIL NIHAD
-
-#Features Clones :
-
-Random Icon Color
-Random Android ID
-Random IMEI / IMSI
-Random Wi-Fi MAC address
-Allow screenshots
-
-
-##Download All Fb Lite
+## Available Versions
+The project includes the following versions of Facebook Lite:
 
 Fb Lite 1 :  <h4><i><b><a href ="https://github.com/DeV1LN1H4d/Fb-11-Lite/releases/download/fb-11-lite/Lite_1_devilnihad.apk">Download</a></b></i></h4>
 </div>
@@ -58,4 +44,26 @@ Version : 474.0.0.52.74
 Facebook : Download
 
 
-Enjoy :( Clones. 
+### App Information
+- **App Version:** 418.0.0.6.105
+- **Clone Version:** 1.0
+- **Developer:** DEVIL NIHAD
+
+### Features of Clones
+Each clone comes with the following distinct features:
+- **Random Icon Color**: Each clone sports a uniquely colored icon for easy identification.
+- **Random Android ID**: Enhances privacy by assigning a random Android ID to the app.
+- **Random IMEI / IMSI**: To further protect user identity, each clone generates a random IMEI or IMSI.
+- **Random Wi-Fi MAC Address**: The clone also randomizes the Wi-Fi MAC address of the device it's running on.
+- **Allow Screenshots**: Unlike the standard Facebook Lite, these clones allow users to take screenshots.
+
+## Usage
+The clones are intended for users who want to manage multiple Facebook accounts simultaneously, each with its own set of privacy-focused features.
+
+## Disclaimer
+This project is not affiliated with Facebook or any of its subsidiaries. The clones are developed independently for educational and privacy-focused purposes.
+
+### Collaboration and Contributions
+Contributions to this project are welcome. Please feel free to fork the repository, make improvements, and submit a pull request.
+
+Enjoy :( Clones.
