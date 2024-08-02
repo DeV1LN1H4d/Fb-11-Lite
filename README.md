@@ -7,41 +7,26 @@ The project includes the following versions of Facebook Lite:
 
 Fb Lite 1 :  <h4><i><b><a href ="https://github.com/DeV1LN1H4d/Fb-11-Lite/releases/download/fb-11-lite/Lite_1_devilnihad.apk">Download</a></b></i></h4>
 </div>
-
 Fb Lite 2 :  <h4><i><b><a href ="https://github.com/DeV1LN1H4d/Fb-11-Lite/releases/download/fb-11-lite/Lite_2_devilnihad.apk">Download</a></b></i></h4>
 </div>
-
 Fb Lite 3 :  <h4><i><b><a href ="https://github.com/DeV1LN1H4d/Fb-11-Lite/releases/download/fb-11-lite/Lite_3_devilnihad.apk">Download</a></b></i></h4>
 </div>
-
 Fb Lite 4 :  <h4><i><b><a href ="https://github.com/DeV1LN1H4d/Fb-11-Lite/releases/download/fb-11-lite/Lite_4_devilnihad.apk">Download</a></b></i></h4>
 </div>
-
 Fb Lite 5 :  <h4><i><b><a href ="https://github.com/DeV1LN1H4d/Fb-11-Lite/releases/download/fb-11-lite/Lite_5_devilnihad.apk">Download</a></b></i></h4>
 </div>
-
 Fb Lite 6 :  <h4><i><b><a href ="https://github.com/DeV1LN1H4d/Fb-11-Lite/releases/download/fb-11-lite/Lite_6_devilnihad.apk">Download</a></b></i></h4>
 </div>
-
 Fb Lite 7 :  <h4><i><b><a href ="https://github.com/DeV1LN1H4d/Fb-11-Lite/releases/download/fb-11-lite/Lite_7_devilnihad.apk">Download</a></b></i></h4>
 </div>
-
 Fb Lite 8 :  <h4><i><b><a href ="https://github.com/DeV1LN1H4d/Fb-11-Lite/releases/download/fb-11-lite/Lite_8_devilnihad.apk">Download</a></b></i></h4>
 </div>
-
 Fb Lite 9 :  <h4><i><b><a href ="https://github.com/DeV1LN1H4d/Fb-11-Lite/releases/download/fb-11-lite/Lite_9_devilnihad.apk">Download</a></b></i></h4>
 </div>
-
 Fb Lite 10 : <h4><i><b><a href ="https://github.com/DeV1LN1H4d/Fb-11-Lite/releases/download/fb-11-lite/Lite_10_devilnihad.apk">Download</a></b></i></h4>
 </div>
-
 Fb Lite 11 : <h4><i><b><a href ="https://github.com/DeV1LN1H4d/Fb-11-Lite/releases/download/fb-11-lite/Lite_11_devilnihad.apk">Download</a></b></i></h4>
 </div>
-
-Facebook Official App Clone 
-Version : 474.0.0.52.74
-
-Facebook : Download
 
 
 ### App Information
